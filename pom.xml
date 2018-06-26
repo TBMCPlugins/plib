@@ -49,8 +49,8 @@
     </repository>
     <!-- Official Vault repository -->
     <repository>
-        <id>vault-repo</id>
-        <url>http://nexus.theyeticave.net/content/repositories/pub_releases</url>
+      <id>vault-repo</id>
+      <url>http://nexus.hc.to/content/repositories/pub_releases</url>
     </repository>
   </repositories>
   
@@ -84,7 +84,7 @@
       <!-- https://hub.spigotmc.org/nexus/#nexus-search;quick~bukkit -->
       <groupId>org.bukkit</groupId>
       <artifactId>bukkit</artifactId>
-      <version>1.9-SNAPSHOT</version>
+      <version>1.9-R0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
         <!-- http://dev.bukkit.org/server-mods/vault/ -->
